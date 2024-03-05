@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-color: #fafaff;
+}
+
+.bg-green-gradient {
+  background: linear-gradient(144.39deg, #ffffff -278.56%, #0b6e4f -78.47%, #11101d 91.61%);
+}
